@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_labs"
+        android:icon="@drawable/ic_labs_black_24dp"
+        android:title="@string/title_labs" />
+
+    <item
+        android:id="@+id/navigation_scheduled"
+        android:icon="@drawable/ic_scheduled_black_24dp"
+        android:title="@string/title_scheduled" />
+
+    <item
+        android:id="@+id/navigation_scheduling"
+        android:icon="@drawable/ic_scheduling_black_24dp"
+        android:title="@string/title_scheduling" />
+
+</menu>
