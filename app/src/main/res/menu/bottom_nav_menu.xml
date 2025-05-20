@@ -11,9 +11,4 @@
         android:icon="@drawable/ic_scheduled_black_24dp"
         android:title="@string/title_scheduled" />
 
-    <item
-        android:id="@+id/navigation_scheduling"
-        android:icon="@drawable/ic_scheduling_black_24dp"
-        android:title="@string/title_scheduling" />
-
 </menu>

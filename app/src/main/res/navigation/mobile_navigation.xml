@@ -22,4 +22,5 @@
         android:name="com.example.fmuschedulelabs.ui.scheduling.SchedulingFragment"
         android:label="@string/title_scheduling"
         tools:layout="@layout/fragment_scheduling" />
+
 </navigation>
